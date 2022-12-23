@@ -1,6 +1,6 @@
 # MonteCarloPlanner
 
-Ce projet a permis de comparer l'efficacité des algorithmes de MRW (monte carlo random walk) et HSP sur les problèmes de plannification automatiques fournis (blocks, depot, gripper, logistics)
+Ce projet a permis de comparer l'efficacité des algorithmes de MRW (monte carlo random walk) et HSP sur les problèmes de plannification automatiques fournis (blocks, depot, gripper, logistics). Pour chacun de ces domaines, nous utilisons les algos MRW et HSP sur 4 problèmes différents.
 
 L'algo MRW a pour caractéristiques de ne s'arrêter que lorsqu'une solution est trouvée, pas forcément la plus efficace.
 L'efficacité d'une solution trouvée se traduit par le nombre d'actions nécessaires pour aller de l'état initial à l'état solution.
